@@ -12,6 +12,7 @@ At the beggining of the project I still needed to go through the content of the 
 So as a result, I tried changing everything from margins, padding, font-size, even chamging the size of the images and so on to get exactly the number of lines and spacing as in the demo.
 But after learning about flexbox or css grid in week 2 I realised my mistake. I will probably ask more questions from support contacts to clarify points I'm uncertain about in the next project.
 
+Website URL:  <a href="https://light1377.github.io/week1-project/">Updated Horiseon page</a> 
 
 
 
