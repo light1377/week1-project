@@ -15,7 +15,7 @@ But after learning about flexbox or css grid in week 2 I realised my mistake. I 
 Website URL:  <a href="https://light1377.github.io/week1-project/">Updated Horiseon page</a> 
 
 Here is a preview of the final product:
-<img src="./assets/images/search-engine-optimization.jpg"/>
+<img src="./assets/images/Screenshot 2022-11-27 at 17-14-00 Horiseon.png"/>
 
 
 
